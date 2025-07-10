@@ -32,7 +32,7 @@ An autonomous robot that navigates its environment by detecting and avoiding obs
 ---
 
 ## 🧾 Project Summary
-View the full write-up in [Project_Summary.pdf](./Project_Summary.pdf)
+View the full write-up in https://www.notion.so/Arduino-Obstacle-avoiding-robot-22c83393a06d80ceb8defe66df190350?source=copy_link
 
 ---
 
